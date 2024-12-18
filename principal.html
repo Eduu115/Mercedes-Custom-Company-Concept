@@ -569,12 +569,13 @@
     </div>
     <div class="fondo-aviso-cookies" id="fondo-aviso-cookies"></div>
     <div id="volver"><a href="#arriba"><strong class="sombra" style="padding-bottom: 1%;">Volver arriba</strong>  </a></div>
+
 <script>
         const botonAceptarCookies = document.getElementById('btn-aceptar-cookies');
-const avisoCookies = document.getElementById('aviso-cookies');
-const fondoAvisoCookies = document.getElementById('fondo-aviso-cookies');
-avisoCookies.classList.add('activo');
-fondoAvisoCookies.classList.add('activo')
+    const avisoCookies = document.getElementById('aviso-cookies');
+    const fondoAvisoCookies = document.getElementById('fondo-aviso-cookies');
+    avisoCookies.classList.add('activo');
+    fondoAvisoCookies.classList.add('activo')
 dataLayer = [];
 
 if(!localStorage.getItem('cookies-aceptadas')){
