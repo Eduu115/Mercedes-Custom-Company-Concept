@@ -32,6 +32,7 @@ a#fixedtexto{
     float: left;
     text-align: left;
     margin-left: -70px;
+    margin-top: -50px;
     text-decoration: underline;
     text-decoration-color: red;
     

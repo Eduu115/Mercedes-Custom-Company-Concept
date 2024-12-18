@@ -11,3 +11,7 @@ Pablo serrano.
 
 Copyright © 2024. All rights reserved.
 This content is protected by intellectual property laws and international treaties. Reproduction, distribution, public communication, transformation or any other unauthorized use of the material, in whole or in part, without the prior written consent of the copyright holder Eduardo Serrano and Pablo Serrano is strictly prohibited.
+
+# EVERYTHING included on the website about the usage of cookies is FALSE and made to be close to reality, without ceasing to be fictitious. NO TYPE OF DATA IS COLLECTED FROM THE END USER 
+
+# TODO lo incluido en la web acerca del uso de cookies es FALSO y hecho para ser cercano a la realidad, sin dejar de ser ficticio. NO SE RECOPILA NINGUN TIPO DE DATO DEL USUARIO FINAL
