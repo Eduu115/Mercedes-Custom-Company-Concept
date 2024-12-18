@@ -1,9 +1,0 @@
-h1 { font: bold 2em garamond; color: navy; text-align: center; }
-p { font: bold 1.1em arial; text-align: center; }
-#respuesta { font: bold 1.5em verdana; color: purple; text-align: center; }
-#rojo, #amarillo, #verde, #azul { width: 225px; height: 225px; 
-       border: 1px solid black; margin: 10px; float: left }
-#rojo  { background-color: red; }
-#amarillo  { background-color: yellow; }
-#verde  { background-color: green; }
-#azul  { background-color: blue; }
