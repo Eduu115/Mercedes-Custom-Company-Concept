@@ -73,7 +73,7 @@ div#barra{
 }
 
 body#uno{
-    background-image: url("fondo.png");
+    background-image: url("./fotos/fondo.png");
     background-attachment: fixed;
     background-repeat: repeat;
     width: 100%;
@@ -81,7 +81,7 @@ body#uno{
 
 }
 #dos{
-    background-image: url("FONDO2.png");
+    background-image: url("./fotos/FONDO2.png");
     background-attachment: fixed;
     background-repeat: repeat;
     width: 100%;
